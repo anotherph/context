@@ -18,10 +18,10 @@
         "materialProperties": "http://uri.citydatahub.kr/ngsi-ld/ecotron/materialProperties",
         "materialManufacturer": "http://uri.citydatahub.kr/ngsi-ld/ecotron/materialManufacturer",
         "materialManufacturedDate": "http://uri.citydatahub.kr/ngsi-ld/ecotron/materialManufacturedDate",
-        "userinputDataId": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputDataId",
-        "userinputDataType": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputDataType",
-        "userinputInputMethod": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputInputMethod",
-        "userinputCreatedAt": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputCreatedAt"
+        "userInputDataId": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputDataId",
+        "userInputDataType": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputDataType",
+        "userInputInputMethod": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputInputMethod",
+        "userInputCreatedAt": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputCreatedAt"
     }
   ]
 }
