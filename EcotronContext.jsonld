@@ -1,1 +1,17 @@
-hello
+{
+  "@context": {
+    "type": "@type",
+    "id": "@id",
+    "experimentType": "http://uri.citydatahub.kr/ngsi-ld/ecotron/experimentType",
+    "startTime": "http://uri.citydatahub.kr/ngsi-ld/ecotron/startTime",
+    "endTime": "http://uri.citydatahub.kr/ngsi-ld/ecotron/endTime",
+    "location": "http://uri.citydatahub.kr/ngsi-ld/ecotron/location",
+    "materialType": "http://uri.citydatahub.kr/ngsi-ld/ecotron/materialType",
+    "materialProperties": "http://uri.citydatahub.kr/ngsi-ld/ecotron/materialProperties",
+    "userId": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userId",
+    "inputTime": "http://uri.citydatahub.kr/ngsi-ld/ecotron/inputTime",
+    "inputType": "http://uri.citydatahub.kr/ngsi-ld/ecotron/inputType",
+    "inputValue": "http://uri.citydatahub.kr/ngsi-ld/ecotron/inputValue"
+  }
+}
+
