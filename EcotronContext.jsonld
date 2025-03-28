@@ -20,7 +20,7 @@
         "materialManufacturedDate": "http://uri.citydatahub.kr/ngsi-ld/ecotron/materialManufacturedDate",
         "userInputDataId": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputDataId",
         "userInputDataType": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputDataType",
-        "userInputInputMethod": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputInputMethod",
+        "userInputMethod": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputInputMethod",
         "userInputCreatedAt": "http://uri.citydatahub.kr/ngsi-ld/ecotron/userinputCreatedAt"
     }
   ]
