@@ -1,4 +1,4 @@
-{
+endTime{
     "@context": [
       {
         "type": "@type",
@@ -14,7 +14,7 @@
         "organization": "http://uri.citydatahub.kr/ngsi-ld/ecotron/organization",
         "experimenterName": "http://uri.citydatahub.kr/ngsi-ld/ecotron/experimenterName",
         "startTime": "http://uri.citydatahub.kr/ngsi-ld/ecotron/startTime",
-        "endTime": "http://uri.citydatahub.kr/ngsi-ld/ecotron/endTime",
+        "completedTime": "http://uri.citydatahub.kr/ngsi-ld/ecotron/completedTime",
         "materialProperties": "http://uri.citydatahub.kr/ngsi-ld/ecotron/materialProperties",
         "manufacturer": "http://uri.citydatahub.kr/ngsi-ld/ecotron/manufacturer",
         "inputData": "http://uri.citydatahub.kr/ngsi-ld/ecotron/inputData",
