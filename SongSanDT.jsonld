@@ -1,0 +1,42 @@
+{
+  "@context": [
+    {
+      "type": "@type",
+      "id": "@id",
+
+      "SongSanSimResult": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/SongSanSimResult",
+      "SongSanSimModel": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/SongSanSimModel",
+      "SongSanRealtime": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/SongSanRealtime",
+      "SongSanInputData": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/SongSanInputData",
+
+      "version": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/version",
+      "modelName": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/modelName",
+      "modelType": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/modelType",
+      "fileName": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/fileName",
+      "inputData": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/inputData",
+
+      "usesSimModel": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/usesSimModel",
+      "hasInputData": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/hasInputData",
+
+      "inletPipe1_1FlowrateSim": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/inletPipe1_1FlowrateSim",
+      "inletPipe1_3FlowrateSim": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/inletPipe1_3FlowrateSim",
+      "inletPipe2_1FlowrateSim": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/inletPipe2_1FlowrateSim",
+      "sewageOutPipeFlowrateSim": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/sewageOutPipeFlowrateSim",
+      "treatInPipeFlowrateSim": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/treatInPipeFlowrateSim",
+      "pondAWaterLevelSim": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/pondAWaterLevelSim",
+      "pondBWaterLevelSim": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/pondBWaterLevelSim",
+      "pondMidWaterLevelSim": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/pondMidWaterLevelSim",
+      "pondUpWaterLevelSim": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/pondUpWaterLevelSim",
+
+      "inletPipe1_1FlowrateMeasured": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/inletPipe1_1FlowrateMeasured",
+      "inletPipe1_3FlowrateMeasured": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/inletPipe1_3FlowrateMeasured",
+      "inletPipe2_1FlowrateMeasured": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/inletPipe2_1FlowrateMeasured",
+      "sewageOutFlowrateMeasured": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/sewageOutFlowrateMeasured",
+      "treatInFlowrateMeasured": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/treatInFlowrateMeasured",
+      "pondAWaterLevelMeasured": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/pondAWaterLevelMeasured",
+      "pondBWaterLevelMeasured": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/pondBWaterLevelMeasured",
+      "pondMidWaterLevelMeasured": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/pondMidWaterLevelMeasured",
+      "pondUpWaterLevelMeasured": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/pondUpWaterLevelMeasured"
+    }
+  ]
+}
