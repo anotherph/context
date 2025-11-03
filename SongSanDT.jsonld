@@ -14,6 +14,9 @@
       "modelType": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/modelType",
       "fileName": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/fileName",
       "inputData": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/inputData",
+      "startDate": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/startDate",
+      "endDate": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/endDate",
+      "reportStep": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/reportStep",
 
       "usesSimModel": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/usesSimModel",
       "hasInputData": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/hasInputData",
