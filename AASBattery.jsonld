@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "type": "@type",
+    "id": "@id",
+
+    "CathodeMixer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/CathodeMixer",
+
+    "nameplate": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/nameplate",
+    "identification": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/identification",
+    "lowSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/lowSpeed",
+    "highSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/highSpeed",
+    "tankTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/tankTemperature",
+    "lowSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/lowSpeedCurrent",
+    "highSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/highSpeedCurrent",
+    "belongsTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/belongsTo",
+    "downstreamTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/downstreamTo",
+    "producesOutput": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/producesOutput",
+
+    "ManufacturerName": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ManufacturerName",
+    "ManufacturerProductDesignation": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ManufacturerProductDesignation",
+    "OrderCodeOfManufacturer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/OrderCodeOfManufacturer",
+    "SerialNumber": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/SerialNumber",
+
+    "AssetID": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/AssetID",
+    "ComponentName": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ComponentName",
+    "Location": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Location"
+  }
+}
