@@ -7,6 +7,7 @@
 
     "nameplate": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/nameplate",
     "identification": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/identification",
+    "communicationStatus" : "http://uri.citydatahub.kr/ngsi-ld/AASBattery/communicationStatus",
     "lowSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/lowSpeed",
     "highSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/highSpeed",
     "tankTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/tankTemperature",
