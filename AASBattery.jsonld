@@ -4,17 +4,26 @@
     "id": "@id",
 
     "CathodeMixer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/CathodeMixer",
+    "Nameplate": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Nameplate",
+    "Identification": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Identification",
 
-    "nameplate": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/nameplate",
-    "identification": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/identification",
-    "lowSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/lowSpeed",
-    "highSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/highSpeed",
-    "tankTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/tankTemperature",
-    "lowSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/lowSpeedCurrent",
-    "highSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/highSpeedCurrent",
-    "belongsTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/belongsTo",
-    "downstreamTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/downstreamTo",
-    "producesOutput": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/producesOutput",
+    "DataSourceType": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DataSourceType",
+    "CommunicationStatus" : "http://uri.citydatahub.kr/ngsi-ld/AASBattery/CommunicationStatus",
+    
+    "LowSpeedSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowSpeedSet",
+    "LowSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowSpeed",
+    "LowSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowSpeedCurrent",
+    
+    "HighSpeedSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/HighSpeedSet",
+    "HighSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/HighSpeed",
+    "HighSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/HighSpeedCurrent",
+
+    "TankTemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TankTemperatureSet",
+    "TankTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/tankTemperature",
+
+    "BelongsTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/BelongsTo",
+    "DownstreamTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DownstreamTo",
+    "ProducesOutput": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ProducesOutput",
 
     "ManufacturerName": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ManufacturerName",
     "ManufacturerProductDesignation": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ManufacturerProductDesignation",
