@@ -3,7 +3,7 @@
     "type": "@type",
     "id": "@id",
 
-    "CathodeMixer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/CathodeMixer",
+    "Mixer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Mixer",
     "Nameplate": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Nameplate",
     "Identification": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Identification",
 
