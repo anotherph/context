@@ -19,7 +19,7 @@
     "HighSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/HighSpeedCurrent",
 
     "TankTemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TankTemperatureSet",
-    "TankTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/tankTemperature",
+    "TankTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TankTemperature",
 
     "BelongsTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/BelongsTo",
     "DownstreamTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DownstreamTo",
