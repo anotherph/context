@@ -4,6 +4,10 @@
     "id": "@id",
 
     "Mixer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Mixer",
+    "Coater": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Coater",
+    "Rollpress": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Rollpress",
+    "Notcher": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Notcher",
+    
     "Nameplate": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Nameplate",
     "Identification": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Identification",
 
@@ -13,25 +17,68 @@
     "LowSpeedSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowSpeedSet",
     "LowSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowSpeed",
     "LowSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowSpeedCurrent",
-    
     "HighSpeedSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/HighSpeedSet",
     "HighSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/HighSpeed",
     "HighSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/HighSpeedCurrent",
-
     "TankTemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TankTemperatureSet",
     "TankTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TankTemperature",
-
     "BelongsTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/BelongsTo",
     "DownstreamTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DownstreamTo",
     "ProducesOutput": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ProducesOutput",
-
     "ManufacturerName": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ManufacturerName",
     "ManufacturerProductDesignation": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ManufacturerProductDesignation",
     "OrderCodeOfManufacturer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/OrderCodeOfManufacturer",
     "SerialNumber": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/SerialNumber",
 
+    "LineSpeedSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LineSpeedSet",
+    "LineSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LineSpeed",
+    "SlurryPumpSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/SlurryPumpSet",
+    "SlurryPump": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/SlurryPump",
+    "Dryer1SupplyFan": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer1SupplyFan",
+    "Dryer1SupplyFanSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer1SupplyFanSet",
+    "Dryer2SupplyFan": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer2SupplyFan",
+    "Dryer2SupplyFanSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer2SupplyFanSet",
+    "Dryer3SupplyFan": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer3SupplyFan",
+    "Dryer3SupplyFanSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer3SupplyFanSet",
+    "Dryer4SupplyFan": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer4SupplyFan",
+    "Dryer4SupplyFanSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer4SupplyFanSet",
+    "Dryer1Temperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer1Temperature",
+    "Dryer1TemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer1TemperatureSet",
+    "Dryer2Temperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer2Temperature",
+    "Dryer2TemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer2TemperatureSet",
+    "Dryer3Temperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer3Temperature",
+    "Dryer3TemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer3TemperatureSet",
+    "Dryer4Temperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer4Temperature",
+    "Dryer4TemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Dryer4TemperatureSet",
+    "UnwinderTensionSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/UnwinderTensionSet",
+    "UnwinderTension": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/UnwinderTension",
+    "RewinderTensionSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/RewinderTensionSet",
+    "RewinderTension": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/RewinderTension",
+    "RewinderOutSpeedTensionSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/RewinderOutSpeedTensionSet",
+    "RewinderOutSpeedTension": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/RewinderOutSpeedTension",
+
+    "DriveLineSpeedSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DriveLineSpeedSet",
+    "DriveLineSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DriveLineSpeed",
+    "PositionDataDRSide": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/PositionDataDRSide",
+    "PositionDataOPSide": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/PositionDataOPSide",
+    "UpperPosDRSideSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/UpperPosDRSideSet",
+    "UpperPosOPSideSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/UpperPosOPSideSet",
+    "LowerPosDRSide": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowerPosDRSide",
+    "LowerPosOPSide": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowerPosOPSide",
+    "PitchDistanceDRSide": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/PitchDistanceDRSide",
+    "DownLimitDRSide": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DownLimitDRSide",
+    "DownLimitOPSide": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DownLimitOPSide",
+    "UpperRollTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/UpperRollTemperature",
+    "UpperRollTemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/UpperRollTemperatureSet",
+    "LowerRollTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowerRollTemperature",
+    "LowerRollTemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowerRollTemperatureSet",
+
+    "MoldCount": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/MoldCount",
+    "MoldCountAlarmSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/MoldCountAlarmSet",
+  
     "AssetID": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/AssetID",
     "ComponentName": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ComponentName",
     "Location": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Location"
+
   }
 }
