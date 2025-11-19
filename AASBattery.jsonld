@@ -22,13 +22,7 @@
     "HighSpeedCurrent": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/HighSpeedCurrent",
     "TankTemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TankTemperatureSet",
     "TankTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TankTemperature",
-    "BelongsTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/BelongsTo",
-    "DownstreamTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DownstreamTo",
-    "ProducesOutput": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ProducesOutput",
     "ManufacturerName": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ManufacturerName",
-    "ManufacturerProductDesignation": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ManufacturerProductDesignation",
-    "OrderCodeOfManufacturer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/OrderCodeOfManufacturer",
-    "SerialNumber": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/SerialNumber",
 
     "LineSpeedSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LineSpeedSet",
     "LineSpeed": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LineSpeed",
@@ -73,9 +67,18 @@
     "LowerRollTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowerRollTemperature",
     "LowerRollTemperatureSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/LowerRollTemperatureSet",
 
+    "BelongsTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/BelongsTo",
+    "DownstreamTo": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/DownstreamTo",
+    "UpstreamFrom": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/UpstreamFrom",
+    "ProducesOutput": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ProducesOutput",
+
     "MoldCount": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/MoldCount",
     "MoldCountAlarmSet": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/MoldCountAlarmSet",
   
+    "ManufacturerProductDesignation": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ManufacturerProductDesignation",
+    "OrderCodeOfManufacturer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/OrderCodeOfManufacturer",
+    "SerialNumber": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/SerialNumber",
+
     "AssetID": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/AssetID",
     "ComponentName": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/ComponentName",
     "Location": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Location"
