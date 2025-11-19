@@ -5,7 +5,7 @@
 
     "Mixer": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Mixer",
     "Coater": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Coater",
-    "Rollpress": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Rollpress",
+    "Rollpress": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/RollPress",
     "Notcher": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Notcher",
     
     "Nameplate": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Nameplate",
