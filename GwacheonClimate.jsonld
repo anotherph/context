@@ -1,0 +1,36 @@
+{
+  "@context": [
+    {
+      "type": "@type",
+      "id": "@id",
+      "LegalDong": "http://uri.citydatahub.kr/ngsi-ld/climate/LegalDong",
+      "ClimateVulnerability": "http://uri.citydatahub.kr/ngsi-ld/climate/ClimateVulnerability",
+      "ClimateResponsePriority": "http://uri.citydatahub.kr/ngsi-ld/climate/ClimateResponsePriority",
+      "bjdCd": "http://uri.citydatahub.kr/ngsi-ld/climate/bjdCd",
+      "bjdNm": "http://uri.citydatahub.kr/ngsi-ld/climate/bjdNm",
+      "ctrLat": "http://uri.citydatahub.kr/ngsi-ld/climate/ctrLat",
+      "ctrLon": "http://uri.citydatahub.kr/ngsi-ld/climate/ctrLon",
+      "obsDt": "http://uri.citydatahub.kr/ngsi-ld/climate/obsDt",
+      "refLegalDong": "http://uri.citydatahub.kr/ngsi-ld/climate/refLegalDong",
+      "climateTp": "http://uri.citydatahub.kr/ngsi-ld/climate/climateTp",
+      "calcDt": "http://uri.citydatahub.kr/ngsi-ld/climate/calcDt",
+      "runId": "http://uri.citydatahub.kr/ngsi-ld/climate/runId",
+      "ta": "http://uri.citydatahub.kr/ngsi-ld/climate/ta",
+      "ceIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/ceIdx",
+      "stIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/stIdx",
+      "acIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/acIdx",
+      "vlIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/vlIdx",
+      "vlRank": "http://uri.citydatahub.kr/ngsi-ld/climate/vlRank",
+      "vlGrd": "http://uri.citydatahub.kr/ngsi-ld/climate/vlGrd",
+      "calcVer": "http://uri.citydatahub.kr/ngsi-ld/climate/calcVer",
+      "inputSrc": "http://uri.citydatahub.kr/ngsi-ld/climate/inputSrc",
+      "hm": "http://uri.citydatahub.kr/ngsi-ld/climate/hm",
+      "feelTa": "http://uri.citydatahub.kr/ngsi-ld/climate/feelTa",
+      "blueIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/blueIdx",
+      "greenIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/greenIdx",
+      "grayIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/grayIdx",
+      "rpaiIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/rpaiIdx",
+      "rpaiRank": "http://uri.citydatahub.kr/ngsi-ld/climate/rpaiRank"
+    }
+  ]
+}
