@@ -144,7 +144,7 @@
     "Std": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/Std",
     "StopTime": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/StopTime",
     "TabWelder": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TabWelder",
-    "TabweldingLot": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TabweldingLot",
+    "TabWeldingLot": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TabWeldingLot",
     "TactTime": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TactTime",
     "TopSealTemperature": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TopSealTemperature",
     "TopSealTime": "http://uri.citydatahub.kr/ngsi-ld/AASBattery/TopSealTime",
