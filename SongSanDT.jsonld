@@ -43,15 +43,12 @@
       "status": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/status",
       "baseConfig": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/baseConfig",
       "model": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/model",
-      "operation": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/operation",
       "rules": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/rules",
       "inactive": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/inactive",
       "facilities": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/facilities",
       "authoring": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/authoring",
       "changes": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/changes",
       "createdBy": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/createdBy",
-      "createdAt": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/createdAt",
-      "updatedAt": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/updatedAt",
       "reason": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/reason",
       "hasConfig": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/hasConfig",
       "dryDays": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/dryDays",
@@ -71,7 +68,10 @@
       "period": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/period",
       "yearly": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/yearly",
       "worstYearSeriesUrl": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/worstYearSeriesUrl",
-      "computedAt": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/computedAt"
+      "computedAt": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/computedAt",
+      "operationSetting": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/operationSetting",
+      "createdTime": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/createdTime",
+      "updatedTime": "http://uri.citydatahub.kr/ngsi-ld/songSanDT/updatedTime"
     }
   ]
 }
