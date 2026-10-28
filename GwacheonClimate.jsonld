@@ -30,7 +30,22 @@
       "greenIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/greenIdx",
       "grayIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/grayIdx",
       "rpaiIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/rpaiIdx",
-      "rpaiRank": "http://uri.citydatahub.kr/ngsi-ld/climate/rpaiRank"
+      "rpaiRank": "http://uri.citydatahub.kr/ngsi-ld/climate/rpaiRank",
+      "ClimateLikelihood": "http://uri.citydatahub.kr/ngsi-ld/climate/ClimateLikelihood",
+      "ClimateImpact": "http://uri.citydatahub.kr/ngsi-ld/climate/ClimateImpact",
+      "scenarioCd": "http://uri.citydatahub.kr/ngsi-ld/climate/scenarioCd",
+      "periodCd": "http://uri.citydatahub.kr/ngsi-ld/climate/periodCd",
+      "mmdd": "http://uri.citydatahub.kr/ngsi-ld/climate/mmdd",
+      "admCd": "http://uri.citydatahub.kr/ngsi-ld/climate/admCd",
+      "admNm": "http://uri.citydatahub.kr/ngsi-ld/climate/admNm",
+      "prdBgnYr": "http://uri.citydatahub.kr/ngsi-ld/climate/prdBgnYr",
+      "prdEndYr": "http://uri.citydatahub.kr/ngsi-ld/climate/prdEndYr",
+      "lkhIdx": "http://uri.citydatahub.kr/ngsi-ld/climate/lkhIdx",
+      "lkhGrd": "http://uri.citydatahub.kr/ngsi-ld/climate/lkhGrd",
+      "srcVer": "http://uri.citydatahub.kr/ngsi-ld/climate/srcVer",
+      "vGrd": "http://uri.citydatahub.kr/ngsi-ld/climate/vGrd",
+      "impactGrd": "http://uri.citydatahub.kr/ngsi-ld/climate/impactGrd",
+      "lkhSrcVer": "http://uri.citydatahub.kr/ngsi-ld/climate/lkhSrcVer"
     }
   ]
 }
